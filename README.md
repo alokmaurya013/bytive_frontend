@@ -3,7 +3,7 @@
 # Frontend Todo Application
 
 This is a simple Todo application built with React and styled using Tailwind CSS. It allows users to add, edit, and manage tasks, with their status updated between "Pending" and "Completed".
-
+Live URL:https://precious-pothos-44fd61.netlify.app/
 ## Features
 
 - **Add Task**: Allows the user to add a new task with a title and status.
